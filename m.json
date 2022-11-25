@@ -1,9 +1,14 @@
 {
 "sites": [
 {"key":"csp_DiDuan" ,"name":"♻️低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-
-{"key":"csp_xp_libv","name":"💢Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/MeowXP/libv.json"},
 {"key":"csp_xp_zxzj2","name":"💢在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/MeowXP/zxzj2.json"},
+{"key":"csp_xbb_voflix","name":"🍀Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/MeowXB/voflix.json"},
+{"key":"csp_xp_libv","name":"💢Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/MeowXP/libv.json"},
+{"key":"csp_xp_jLgyy","name":"💢蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/MeowXP/lgyy.json"},  
+{"key":"csp_xbb_茶杯狐","name":"🍀茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/MeowXB/茶杯狐.json"},
+{"key":"csp_xbb_LIBVIO","name":"🍀LIBVIO","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/MeowXB/LIBVIO.json"},
+{"key":"csp_xbb_在线之家","name":"🍀在线之家","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/MeowXB/在线之家.json"},
+  
 {"key":"csp_QQ","name":"🍅腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/ajax79/box/main/sub/ext/qq_qiyi_mgtv.jpg"},
 {"key":"csp_IQIYI","name":"🥝爱奇艺(官)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/ajax79/box/main/sub/ext/qq_qiyi_mgtv.jpg"},
 {"key":"csp_MGTV","name":"🍋芒果TV(官)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/ajax79/box/main/sub/ext/qq_qiyi_mgtv.jpg"},
@@ -16,12 +21,8 @@
 {"key":"csp_xml_ck","name":"🎀CK资源","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","记录片","犯罪片","奇幻片","电视剧","国产剧","欧美剧","日韩剧","港台剧"]},
 {"key":"csp_xbb_斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/MeowXB/斗鱼.json"},
 {"key":"csp_xp_huya","name":"🐯虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/MeowXP/虎牙.json"},
-
 {"key":"csp_QB_17kan","name":"⚽17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/ext/17看球.json"},
 {"key":"csp_xp_球迷直播","name":"🏀dj看球","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/ext/dj看球.json"},
-{"key":"csp_xbb_茶杯狐","name":"🍀茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/MeowXB/茶杯狐.json"},
-
-{"key":"csp_xbb_voflix","name":"🍀Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/MeowXB/voflix.json"},
 {"key": "csp_xp_yinfans","name": "💥音范丝4K(300+)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/ajax79/box/main/sub/MeowXP/yinfans.json"},
 {"key":"csp_xp_naifei","name":"💢奈飞中文","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/MeowXP/naifei.json"},
 {"key":"csp_xp_agemys","name":"💢AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/MeowXP/agemys.json"},
@@ -30,9 +31,7 @@
 {"key":"csp_xp_dmw","name":"💢动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/MeowXP/dmw.json"},
 {"key":"csp_xp_omofun","name": "💢omofun日漫","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/ajax79/box/main/sub/MeowXP/omofun.json"},
 {"key":"csp_xp_bidiys","name":"💢Bidi影视(专线)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/MeowXP/bidiys2.json"},
-{"key":"csp_xp_jLgyy","name":"💢蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/MeowXP/lgyy.json"},
-{"key":"csp_xbb_LIBVIO","name":"🍀LIBVIO","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/MeowXB/LIBVIO.json"},
-{"key":"csp_xbb_在线之家","name":"🍀在线之家","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/ajax79/box/main/sub/MeowXB/在线之家.json"},
+
 ],
 //解X设置
 "parses":[
